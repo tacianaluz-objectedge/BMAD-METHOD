@@ -1,3 +1,18 @@
+📝 BMAD Training: Hands-on Practice Outcome
+Activity: Applied the BMAD Method (V6) to create a structured AI-assisted CLI Task Tracker.
+
+Key Learnings & Implementation:
+
+Context-First Architecture: Instead of prompt-engineering on the fly, I established a "Single Source of Truth" by creating an ARCHITECTURE.md file. This defines the roles, rules, and tech stack for the AI before any code is written.
+
+Modular Flow: Following the BMAD Masterclass, I separated the Data Layer (logic) from the CLI Interface, ensuring a clean and maintainable structure.
+
+AI-Driven Development (V6): I practiced the iterative development cycle, using the AI to build features progressively (Add/List/Remove) while maintaining high robustness and error handling.
+
+Environment Setup: Configured a Node.js ESM environment within VS Code, successfully persisting data in a JSON structure.
+
+Outcome: A functional, architecturally sound CLI tool that demonstrates a disciplined, AI-assisted development workflow rather than just "chatting" with an LLM.
+
 # Agent Schema Validation Test Suite
 
 Comprehensive test coverage for the BMAD agent schema validation system.

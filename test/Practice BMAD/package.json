@@ -1,0 +1,13 @@
+{
+  "name": "cli-task-tracker",
+  "version": "1.0.0",
+  "description": "A CLI Task Tracker using Clean Architecture",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["cli", "task", "tracker"],
+  "author": "",
+  "license": "ISC"
+}
