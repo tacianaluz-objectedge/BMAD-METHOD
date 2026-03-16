@@ -1,4 +1,4 @@
-📝 BMAD Training: Hands-on Practice Outcome
+#📝 BMAD Training: Hands-on Practice Outcome
 Activity: Applied the BMAD Method (V6) to create a structured AI-assisted CLI Task Tracker.
 
 Key Learnings & Implementation:
